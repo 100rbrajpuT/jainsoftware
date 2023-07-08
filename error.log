@@ -1,0 +1,2 @@
+2023-07-08 15:09:44,038 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2023-07-08 15:15:31,849 - ERROR - Error sending email: SMTP AUTH extension not supported by server.
